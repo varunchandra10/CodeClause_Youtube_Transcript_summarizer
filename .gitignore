@@ -1,0 +1,8 @@
+# Ignore the venv folder
+venv/
+
+# Ignore any compiled Python files
+__pycache__/
+*.pyc
+*.pyo
+*~

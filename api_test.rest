@@ -1,0 +1,1 @@
+GET http://localhost:5000/api/summarize?youtube_url=https://www.youtube.com/watch?v=kMiy8ZywF88
